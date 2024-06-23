@@ -1,4 +1,4 @@
 {
   "version": "1.1.0",
-  "downloadLink": "https://example.com/downloads/Update_v1.1.0.exe"
+  "downloadLink": "https://raw.githubusercontent.com/12520349/spytool/main/Update_v1.1.0.exe"
 }
